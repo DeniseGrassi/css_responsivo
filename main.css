@@ -230,7 +230,7 @@ button:hover {
     }
 
     .lista .container-flex {
-        grid-template-columns: repeat(2, 49%);
+        grid-template-columns: repeat(4, 24,25%);
 
     }
 
@@ -239,8 +239,7 @@ button:hover {
     }
 
     .lista-produtos img {
-        max-width: 100%;
-        height: 40vh;
+        max-width: 100%;      
     }
 
     button {
